@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Embedded System Developer
-- 👨‍💻 As a Mechatronics student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a ITI student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C , AVR interfacing , ARM interfacing or anything related to Embedded System.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
